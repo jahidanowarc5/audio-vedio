@@ -1,0 +1,18 @@
+nav li{
+    list-style: none;
+    padding:0 10px;
+    
+
+}
+nav li a{
+    text-decoration: none;
+    color:chocolate;
+    font-size: 20px;
+}
+nav ul{
+    display:flex;
+    justify-content: space-around;
+}
+nav li:hover{
+    background-color: darkblue;
+}
